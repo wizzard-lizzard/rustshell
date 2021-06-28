@@ -5,6 +5,7 @@ I'm currently working on learning the basics of Rust, and wanted to do something
 Things I'd like to add eventually:
 
 * An actual shell with prompts and everything!
+* Writing stderr to the shell
 * Refactor some of the code into different functions instead of having everything process through main()
 * Encryption between the command server and the client
 * Many many other things tbd
